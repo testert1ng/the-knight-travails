@@ -36,8 +36,8 @@ Must be a list of squares through which the Knight passes, in algebraic chess no
 
 ### Example  
  
-Test Input:      | A8 B7  
-Expected Output: | C7 B5 D6 B7  
+Test Input:      A8 B7  
+Expected Output: C7 B5 D6 B7  
  
 ### Assignment brief 
 
